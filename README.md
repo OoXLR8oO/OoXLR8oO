@@ -1,4 +1,4 @@
-# Hi, I'm Kartik 👋
+# Hello there :)
 
 Computer Science graduate passionate about backend engineering, software architecture, and building reliable applications.
 
