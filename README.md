@@ -19,6 +19,8 @@ I am currently deepening my backend engineering skills through:
 
 - Python
 - C#
+- HTML
+- CSS
 - JavaScript
 - SQL
 - PostgreSQL
